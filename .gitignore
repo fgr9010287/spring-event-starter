@@ -1,0 +1,4 @@
+# Project exclude paths
+/spring-event-configuration/target/
+/spring-event-model/target/
+/spring-event-sample/target/
